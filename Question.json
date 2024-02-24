@@ -1,0 +1,14 @@
+[
+    {
+        "id":2,
+        "question":"Who is the steve jobs?",
+        "option":["twitter","facebook","google","microsoft"],
+        "answer":"twitter"
+    },
+    {
+        "id":3,
+        "question":"which is mother language of programming language?",
+        "option":["c","c++","java","js"],
+        "answer":"c"
+    }
+]
